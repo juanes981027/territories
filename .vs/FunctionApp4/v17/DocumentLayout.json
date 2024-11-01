@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.domain\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|solutionrelative:functionapp4.domain\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\services\\territoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\services\\territoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C19463-F5B1-4613-B1DC-C7D613D88A0D}|FunctionApp4.Infrastructure\\FunctionApp4.Infrastructure.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.infrastructure\\dataaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C19463-F5B1-4613-B1DC-C7D613D88A0D}|FunctionApp4.Infrastructure\\FunctionApp4.Infrastructure.csproj|solutionrelative:functionapp4.infrastructure\\dataaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.domain\\interfaces\\idataaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|solutionrelative:functionapp4.domain\\interfaces\\idataaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C19463-F5B1-4613-B1DC-C7D613D88A0D}|FunctionApp4.Infrastructure\\FunctionApp4.Infrastructure.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.infrastructure\\repositories\\informepredicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C19463-F5B1-4613-B1DC-C7D613D88A0D}|FunctionApp4.Infrastructure\\FunctionApp4.Infrastructure.csproj|solutionrelative:functionapp4.infrastructure\\repositories\\informepredicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\controllers\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\controllers\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C19463-F5B1-4613-B1DC-C7D613D88A0D}|FunctionApp4.Infrastructure\\FunctionApp4.Infrastructure.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.infrastructure\\repositories\\territoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C19463-F5B1-4613-B1DC-C7D613D88A0D}|FunctionApp4.Infrastructure\\FunctionApp4.Infrastructure.csproj|solutionrelative:functionapp4.infrastructure\\repositories\\territoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.domain\\interfaces\\iterritoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|solutionrelative:functionapp4.domain\\interfaces\\iterritoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.domain\\interfaces\\icellphonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|solutionrelative:functionapp4.domain\\interfaces\\icellphonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.domain\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|solutionrelative:functionapp4.domain\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.domain\\interfaces\\iinformepredicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|solutionrelative:functionapp4.domain\\interfaces\\iinformepredicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C19463-F5B1-4613-B1DC-C7D613D88A0D}|FunctionApp4.Infrastructure\\FunctionApp4.Infrastructure.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C19463-F5B1-4613-B1DC-C7D613D88A0D}|FunctionApp4.Infrastructure\\FunctionApp4.Infrastructure.csproj|solutionrelative:functionapp4.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\services\\cellphoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\services\\cellphoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\services\\informepredicacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\services\\informepredicacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\services\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\services\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\local.settings.json",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\local.settings.json",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\local.settings.json",
+              "RelativeToolTip": "FunctionApp4.Application\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T12:34:45.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Infrastructure\\DataAccessRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Infrastructure\\DataAccessRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Infrastructure\\DataAccessRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Infrastructure\\DataAccessRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:23:50.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataAccessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\IDataAccessRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Domain\\Interfaces\\IDataAccessRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\IDataAccessRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Domain\\Interfaces\\IDataAccessRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:26:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TerritoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\TerritoriesService.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Services\\TerritoriesService.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\TerritoriesService.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Services\\TerritoriesService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:31:36.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Territory.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Models\\Territory.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Domain\\Models\\Territory.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Models\\Territory.cs",
+              "RelativeToolTip": "FunctionApp4.Domain\\Models\\Territory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:32:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Program.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:52:25.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformePredicacionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Infrastructure\\Repositories\\InformePredicacionRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Infrastructure\\Repositories\\InformePredicacionRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Infrastructure\\Repositories\\InformePredicacionRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Infrastructure\\Repositories\\InformePredicacionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:23:06.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TerritoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Infrastructure\\Repositories\\TerritoriesRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Infrastructure\\Repositories\\TerritoriesRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Infrastructure\\Repositories\\TerritoriesRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Infrastructure\\Repositories\\TerritoriesRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:16:43.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITerritoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\ITerritoriesRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Domain\\Interfaces\\ITerritoriesRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\ITerritoriesRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Domain\\Interfaces\\ITerritoriesRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:02:41.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Domain\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:00:52.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Controllers\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Controllers\\Function1.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Controllers\\Function1.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Controllers\\Function1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswE4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:49:38.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IInformePredicacionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\IInformePredicacionRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Domain\\Interfaces\\IInformePredicacionRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\IInformePredicacionRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Domain\\Interfaces\\IInformePredicacionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:01:20.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICellphoneRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\ICellphoneRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Domain\\Interfaces\\ICellphoneRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Interfaces\\ICellphoneRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Domain\\Interfaces\\ICellphoneRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:59:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "FunctionApp4.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:15:00.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CellphoneService.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\CellphoneService.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Services\\CellphoneService.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\CellphoneService.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Services\\CellphoneService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:06:07.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InformePredicacionService.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\InformePredicacionService.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Services\\InformePredicacionService.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\InformePredicacionService.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Services\\InformePredicacionService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:09:46.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\MailValidator.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Services\\MailValidator.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\MailValidator.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Services\\MailValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:33:13.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

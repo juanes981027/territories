@@ -1,0 +1,11 @@
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\bin\Debug\net8.0\FunctionApp4.Domain.deps.json
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\bin\Debug\net8.0\FunctionApp4.Domain.dll
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\bin\Debug\net8.0\FunctionApp4.Domain.pdb
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\obj\Debug\net8.0\FunctionApp4.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\obj\Debug\net8.0\FunctionApp4.Domain.AssemblyInfoInputs.cache
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\obj\Debug\net8.0\FunctionApp4.Domain.AssemblyInfo.cs
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\obj\Debug\net8.0\FunctionApp4.Domain.csproj.CoreCompileInputs.cache
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\obj\Debug\net8.0\FunctionApp4.Domain.dll
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\obj\Debug\net8.0\refint\FunctionApp4.Domain.dll
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\obj\Debug\net8.0\FunctionApp4.Domain.pdb
+C:\Users\juan.rodriguezc\source\repos\FunctionApp4\FunctionApp4.Domain\obj\Debug\net8.0\ref\FunctionApp4.Domain.dll

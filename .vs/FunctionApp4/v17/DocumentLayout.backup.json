@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\controllers\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\controllers\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\services\\territoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\services\\territoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.application\\services\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CAAE40-88C2-4B55-AD11-B1BAE0C73A7F}|FunctionApp4.Application\\FunctionApp4.Application.csproj|solutionrelative:functionapp4.application\\services\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|c:\\users\\juan.rodriguezc\\source\\repos\\functionapp4\\functionapp4.domain\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E72512D-1AA2-4503-8E9A-D6052F97293E}|FunctionApp4.Domain\\FunctionApp4.Domain.csproj|solutionrelative:functionapp4.domain\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Program.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:52:25.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Controllers\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Controllers\\Function1.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Controllers\\Function1.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Controllers\\Function1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswE4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:49:38.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\MailValidator.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Services\\MailValidator.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\MailValidator.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Services\\MailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:33:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Territory.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Models\\Territory.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Domain\\Models\\Territory.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Domain\\Models\\Territory.cs",
+              "RelativeToolTip": "FunctionApp4.Domain\\Models\\Territory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:32:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TerritoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\TerritoriesService.cs",
+              "RelativeDocumentMoniker": "FunctionApp4.Application\\Services\\TerritoriesService.cs",
+              "ToolTip": "C:\\Users\\juan.rodriguezc\\source\\repos\\FunctionApp4\\FunctionApp4.Application\\Services\\TerritoriesService.cs",
+              "RelativeToolTip": "FunctionApp4.Application\\Services\\TerritoriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:31:36.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
